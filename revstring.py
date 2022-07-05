@@ -1,4 +1,4 @@
-data = "what.is.your.name.please.tell.me"
+data = input("Enter a stentence without spacing seperated by "." (dots), eg: what.is.your.name")
 
 class Reverser:
     
