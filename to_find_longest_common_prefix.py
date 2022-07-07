@@ -1,5 +1,6 @@
 class longestprefixsolution:
     def prefixsolution(self,array):
+        #algorithm of the code starts from here !
         if len(array)==0:
             return -1
         final = ""
