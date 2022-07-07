@@ -1,6 +1,3 @@
-from typing import final
-
-
 class longestprefixsolution:
     def prefixsolution(self,array):
         if len(array)==0:
